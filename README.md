@@ -3,9 +3,9 @@
  
 
 # Overview  
-This project analyzes Ethiopia's key health indicators using World Bank data (2015-2024). It features:  
+This project analyzes Ethiopia's key health indicators using World Bank data (2015-2023). It features:  
 - Comparative analysis: with regional peers (Kenya, Tanzania, Uganda, Rwanda, Sudan)  
-- Machine learning forecasts: (ARIMA models) for 2025-2030  
+- Machine learning forecasts: (ARIMA models) for 2024-2029  
 - Interactive dashboard: built with Plotly Dash  
 - Actionable insights for health policy optimization  
 
